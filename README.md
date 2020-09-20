@@ -8,8 +8,8 @@ Use this repo to share and keep track of any full time positions in SWE, Researc
 
 ## The List
 
-| Name  |  Location |  Profile |
-|---|---|-------------|
+| Name  |  Location |  Profile | Status |
+|---|---|-------------|----|
 |[Google](https://careers.google.com/jobs/results/75449425519878854-software-engineer-university-graduate-2021-start/?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&company=Google&company=YouTube&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&jex=ENTRY_LEVEL&location=India&sort_by=date) | Bangalore,Hyderabad | Software Engineer |
 |[PayPal](https://www.paypal.com/in/webapps/mpp/campus-challenge) | Chennai, Bangalore, Hyderabad | Software Engineer, Data Engineer and Analyst |
 |[AppDynamics(Cisco)](https://jobs.cisco.com/jobs/ProjectDetail/AppD-Software-Engineer-I-New-Grad-India-UHR/1295492)| Bangalore | Software Engineer |
