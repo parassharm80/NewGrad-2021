@@ -16,3 +16,4 @@ Use this repo to share and keep track of any full time positions in SWE, Researc
 |[Code Nation](https://www.interviewbit.com/contest/codeagon-2020/) | Bangalore | Software Engineer |
 |[Morgan Stanley](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/channel-1/brand-2/user-2706063/xf-c41f9d90f914/candidate/so/pm/1/pl/1/opp/10102-2021-Technology-Full-Time-Analyst-Program-Mumbai-Bangalore/en-GB)| Mumbai, Bangalore | Analyst |
 |[JPMorgan](https://careers.jpmorgan.com/in/en/students/programs/software-engineer-fulltime?search=&tags=location__AsiaPacific__India)| Various | Software Engineer |
+|[NCR](https://assessment.hackerearth.com/challenges/hiring/ncr-campus-codewars-2020/)| Hyderabad | Software Engineer |
