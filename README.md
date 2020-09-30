@@ -19,27 +19,27 @@ Use this repo to share and keep track of any full time positions in SWE, Researc
 |[NCR](https://assessment.hackerearth.com/challenges/hiring/ncr-campus-codewars-2020/)| Hyderabad | Software Engineer |
 
 Companies to apply for in 2021:
-Google
-Microsoft
-Amazon
-Atlair
-atlassian
-Quora
-Hexaware
-ZS
-Infosys
-Wipro
-Accenture
-TCS
-Slack
-Goldman Sachs
-JP Morgan
-Morgan Stanley
-Cadence
-NCR
-Paytm
-Paypal
-DXC
-MasterCard
-Bloomberg
+Google,
+Microsoft,
+Amazon,
+Atlair,
+atlassian,
+Quora,
+Hexaware,
+ZS,
+Infosys,
+Wipro,
+Accenture,
+TCS,
+Slack,
+Goldman Sachs,
+JP Morgan,
+Morgan Stanley,
+Cadence,
+NCR,
+Paytm,
+Paypal,
+DXC,
+MasterCard,
+Bloomberg.
 and so on.....
